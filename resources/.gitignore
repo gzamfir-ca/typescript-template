@@ -1,0 +1,13 @@
+# macOS ###################
+.DS_Store
+.Spotlight-V100
+.fseventsd
+
+# Node ####################
+node_modules/
+
+# Typescript ##############
+dist
+
+# VS Code #################
+.vscode/*
